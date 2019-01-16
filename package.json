@@ -1,0 +1,24 @@
+{
+  "name": "create-mos-app",
+  "version": "0.0.1",
+  "description": "this is a create-react-app alternative aimed at making an organized frontend react app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoTheNerd/create-mos-app.git"
+  },
+  "keywords": [
+    "create-react-app",
+    "parcel",
+    "react"
+  ],
+  "author": "Mohammad Al-Ahdal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoTheNerd/create-mos-app/issues"
+  },
+  "homepage": "https://github.com/MoTheNerd/create-mos-app#readme"
+}
